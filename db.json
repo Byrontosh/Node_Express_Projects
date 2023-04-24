@@ -1,0 +1,35 @@
+{
+    "pacientes": [
+        {
+        "id": "1",
+        "nombreMascota": "Tobby",
+        "tipo": "Perro",
+        "nombrePropietario": "Byron Loarte",
+        "telefono": "0995644186",
+        "fechaIngreso": "15/11/2022",
+        "sintomas": "Dolor de la pata delantera"
+        },
+        {
+        "id": "2",
+        "nombreMascota": "Peggy",
+        "tipo": "Perro",
+        "nombrePropietario": "Juan Pére",
+        "telefono": "0995644186",
+        "fechaIngreso": "15/11/2022",
+        "sintomas": "Dolor de la barriga"
+        },
+        {
+        "id": "3",
+        "nombreMascota": "Cirylo",
+        "tipo": "Gato",
+        "nombrePropietario": "Samantha López",
+        "telefono": "0995644186",
+        "fechaIngreso": "15/11/2022",
+        "sintomas": "Solo duerme"
+        }
+    ]
+
+}
+
+
+
